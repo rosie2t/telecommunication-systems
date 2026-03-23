@@ -1,2 +1,2 @@
 # telecommunication-systems
-University project on telecommunication using Python
+University project on telecommunication systems using Python
